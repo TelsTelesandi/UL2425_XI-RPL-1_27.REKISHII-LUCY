@@ -1,0 +1,104 @@
+/* Font Awesome 5 Free */
+@font-face {
+  font-family: "Font Awesome 5 Free";
+  font-style: normal;
+  font-weight: 900;
+  src: url("../webfonts/fa-solid-900.eot");
+  src: url("../webfonts/fa-solid-900.eot?#iefix") format("embedded-opentype"), url("../webfonts/fa-solid-900.woff2")
+    format("woff2"), url("../webfonts/fa-solid-900.woff") format("woff"), url("../webfonts/fa-solid-900.ttf")
+    format("truetype"), url("../webfonts/fa-solid-900.svg#fontawesome") format("svg");
+}
+
+.fa,
+.fas {
+  font-family: "Font Awesome 5 Free";
+  font-weight: 900;
+}
+
+.fa-user:before {
+  content: "\f007";
+}
+
+.fa-sign-out-alt:before {
+  content: "\f2f5";
+}
+
+.fa-tachometer-alt:before {
+  content: "\f3fd";
+}
+
+.fa-check-circle:before {
+  content: "\f058";
+}
+
+.fa-undo:before {
+  content: "\f0e2";
+}
+
+.fa-box:before {
+  content: "\f466";
+}
+
+.fa-file-alt:before {
+  content: "\f15c";
+}
+
+.fa-arrow-right:before {
+  content: "\f061";
+}
+
+.fa-arrow-left:before {
+  content: "\f060";
+}
+
+.fa-plus:before {
+  content: "\f067";
+}
+
+.fa-edit:before {
+  content: "\f044";
+}
+
+.fa-trash:before {
+  content: "\f1f8";
+}
+
+.fa-search:before {
+  content: "\f002";
+}
+
+.fa-print:before {
+  content: "\f02f";
+}
+
+.fa-times:before {
+  content: "\f00d";
+}
+
+.fa-check:before {
+  content: "\f00c";
+}
+
+.fa-exclamation-triangle:before {
+  content: "\f071";
+}
+
+.fa-info-circle:before {
+  content: "\f05a";
+}
+
+.fa-caret-down:before {
+  content: "\f0d7";
+}
+
+.fa-bars:before {
+  content: "\f0c9";
+}
+
+.fa-clock:before {
+  content: "\f017";
+}
+
+.fa-hand-holding:before {
+  content: "\f4bd";
+}
