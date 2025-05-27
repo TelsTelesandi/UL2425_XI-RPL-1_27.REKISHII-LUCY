@@ -1,0 +1,82 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="27.0.6">
+  <diagram name="Page-1" id="uvIG281uO5yEnSDoyjHq">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="3000" pageHeight="3000" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="CE1RwMtjXh1SKg0S72mm-1" value="Sistem Peminjaman Barang Sarana &amp;amp; Prasarana" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="700" y="410" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="CE1RwMtjXh1SKg0S72mm-2" value="User&amp;nbsp;&lt;div&gt;(Guru/Siswa)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CE1RwMtjXh1SKg0S72mm-3" value="Admin" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="987" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CE1RwMtjXh1SKg0S72mm-4" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.047;entryY=0.331;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="CE1RwMtjXh1SKg0S72mm-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="540" y="450" as="sourcePoint" />
+            <mxPoint x="590" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CE1RwMtjXh1SKg0S72mm-5" value="" style="endArrow=none;html=1;rounded=0;entryX=0.047;entryY=0.331;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=block;startFill=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="540" y="490" as="sourcePoint" />
+            <mxPoint x="706" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CE1RwMtjXh1SKg0S72mm-6" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.047;entryY=0.331;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.958;exitY=0.336;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="CE1RwMtjXh1SKg0S72mm-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="820" y="449.79999999999995" as="sourcePoint" />
+            <mxPoint x="986" y="449.79999999999995" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CE1RwMtjXh1SKg0S72mm-7" value="" style="endArrow=none;html=1;rounded=0;entryX=0.047;entryY=0.331;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=block;startFill=1;exitX=0.954;exitY=0.671;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="CE1RwMtjXh1SKg0S72mm-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="820" y="489.79999999999995" as="sourcePoint" />
+            <mxPoint x="986" y="489.79999999999995" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CE1RwMtjXh1SKg0S72mm-8" value="Melakukan peminjaman dan pengembalian" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="550" y="420" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CE1RwMtjXh1SKg0S72mm-9" value="ringkasan data rekap peminjaman dan pengembalian" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="550" y="494" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CE1RwMtjXh1SKg0S72mm-10" value="CRUD sarana atau barang" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="820" y="501" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CE1RwMtjXh1SKg0S72mm-11" value="Approval peminjaman dan pengembalian" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="890" y="500" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CE1RwMtjXh1SKg0S72mm-12" value="ringkasan seluruh data rekap peminjaman dan pengembalian" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="820" y="416" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CE1RwMtjXh1SKg0S72mm-13" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="CE1RwMtjXh1SKg0S72mm-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="705" y="600" as="sourcePoint" />
+            <mxPoint x="795" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CE1RwMtjXh1SKg0S72mm-14" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="705" y="634" as="sourcePoint" />
+            <mxPoint x="815" y="634" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CE1RwMtjXh1SKg0S72mm-15" value="Report peminjaman dan pengembalian" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="705" y="600" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CE1RwMtjXh1SKg0S72mm-16" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=block;startFill=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="CE1RwMtjXh1SKg0S72mm-15" target="CE1RwMtjXh1SKg0S72mm-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="750" y="551.2" as="sourcePoint" />
+            <mxPoint x="922" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CE1RwMtjXh1SKg0S72mm-17" value="&lt;span style=&quot;font-size: 50px;&quot;&gt;&lt;b&gt;DFD&lt;/b&gt;&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="630" y="240" width="260" height="190" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
